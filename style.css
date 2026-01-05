@@ -1,0 +1,8 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.list-group-item.completed {
+    text-decoration: line-through;
+    opacity: 0.6;
+}
